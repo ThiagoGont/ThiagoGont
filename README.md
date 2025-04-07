@@ -6,7 +6,7 @@
       <p> - 👋 Hello! My name is Thiago, but you can call me by my nickname, Soulkaku!</p>
       <p> - 🔭 I'm currently studying at Instituto Federal do Maranhão in the informatics course</p>
       <p> - 🌱 I'm currently learning nodeJS, linux & C</p>
-      <p> - 💬 Trying to become a junior full-stack developer</p>
+      <p> - 💬 Trying to become a junior </p>
     </td>
     <td>
       <img src="https://tenor.com/view/newjeans-supernatural-animated-album-cover-gif-4560324301703112363.gif" alt="supernatural" width="300" />
