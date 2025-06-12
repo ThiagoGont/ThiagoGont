@@ -9,7 +9,7 @@
       <p> - 💬 Trying to become a junior </p>
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/0SyZWD_JjcYAAAAd/gundam-gundam-gqux.gif" alt="supernatural" width="300" />
+      <img src="https://media1.tenor.com/m/sCX5Fn32UmAAAAAC/elevator-neon.gif" alt="eva" width="300" />
     </td>
   </tr>
 </table>
