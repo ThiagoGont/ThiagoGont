@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="padding-right: 20px;">
-      <p> - 👋 Hello! My name is Thiago, but you can call me by my nickname, Soulkaku!</p>
+      <p> - 👋 Hello! My name is Thiago Gonçalves!</p>
       <p> - 🔭 I'm currently studying at Instituto Federal do Maranhão in the informatics course</p>
       <p> - 🌱 I'm currently learning nodeJS, linux & C</p>
       <p> - 💬 Trying to become a junior </p>
