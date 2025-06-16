@@ -5,8 +5,7 @@
     <td style="padding-right: 20px;">
       <p> - 👋 Hello! My name is Thiago Gonçalves!</p>
       <p> - 🔭 I'm currently studying at Instituto Federal do Maranhão in the informatics course</p>
-      <p> - 🌱 I'm currently learning nodeJS, linux & C</p>
-      <p> - 💬 Trying to become a junior </p>
+      <p> - 🌱 I'm currently learning nodeJS, linux and C</p>
     </td>
     <td>
       <img src="https://media1.tenor.com/m/sCX5Fn32UmAAAAAC/elevator-neon.gif" alt="eva" width="300" />
@@ -18,8 +17,7 @@
 <br>
 
 <h2> 🌐 How to reach me: </h2>
-<a href="https://www.instagram.com/thiago117i/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discordapp.com/users/597059270122405908" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/1383147225835639005" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 
 <h1>💻 Tech Stack:</h1>
