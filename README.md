@@ -3,12 +3,14 @@
 <table>
   <tr>
     <td style="padding-right: 20px;">
-      <p> - 👋 Hello! My name is Thiago Gonçalves!</p>
-      <p> - 🔭 I'm currently studying at Instituto Federal do Maranhão in the informatics course</p>
-      <p> - 🌱 I'm currently learning nodeJS, linux and C</p>
+    <p>  💻 - I’m currently working on back-end
+    <p>  🔭 - I’m currently studying the 2nd year of the informatics course at IFMA - Imperatriz Campus </p>
+    <p>  ⚡ - Love mechs is life! </p>
+    <p>  🌱 - I’m currently learning <strong>Typescript, React, MongoDb, PostegresSQL, NestJS, ExpressJS and GOOD WAYS OF CODING! </strong> </p>
+    <p> 🚀  - Ongoing Development: Continuously improving my programming and development skills. </p>
     </td>
     <td>
-      <img src="https://media1.tenor.com/m/sCX5Fn32UmAAAAAC/elevator-neon.gif" alt="eva" width="300" />
+      <img src="https://media1.tenor.com/m/0SyZWD_JjcYAAAAd/gundam-gundam-gqux.gif" alt="eva" width="500" />
     </td>
   </tr>
 </table>
@@ -44,6 +46,15 @@
 </tr>
 </table>
 </div>
+
+<div align="center">
+<a href="#">
+  <img 
+    width="100%"
+    src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif?raw=true" 
+    />
+</a>
+  </div>
 <!---
 Soulkaku/Soulkaku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
