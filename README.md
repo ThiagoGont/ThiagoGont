@@ -55,7 +55,19 @@
 <br />
 
 <h2> 🌐 How to reach me </h2>
+<br>
+<div align="left">
+ <a href="mailto:hellothigo.dev@gmail.com"> 
+   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" />
+ </a>
+<a href="https://www.linkedin.com/in/thiago-gon%C3%A7alves-939a7a36b/">
+  <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
+</a>
+<a href="https://discord.com/channels/@me/1388980298678665318">
+  <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" />
+</a>
 
+</div>
 <br />
 
 <h2> 🐧 GitHub Stats </h2>
