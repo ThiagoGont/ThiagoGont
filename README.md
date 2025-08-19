@@ -28,7 +28,7 @@
 <table align="center">
   <tr>
     <td style="padding-right: 20px;">
-    <p>  💻 - I’m currently working on back-end
+    <p>  💻 - I’m currently working on back-end and front-end
     <p>  🔭 - I’m currently studying the 2nd year of the informatics course at IFMA - Imperatriz Campus </p>
     <p>  ⚡ - Love mechs is life! </p>
     <p>  🌱 - I’m currently learning <strong>Typescript, React, MongoDb, PostegresSQL, NestJS, ExpressJS and GOOD WAYS OF CODING! </strong> </p>
@@ -51,6 +51,7 @@
 <a>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
 <a>![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)</a>
 <a>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</a>
+<a>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
 
 <br />
 
