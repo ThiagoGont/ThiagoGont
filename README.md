@@ -88,10 +88,6 @@
       <a target="_blank">
         <img width="100%" src="https://lanyard.cnrad.dev/api/1383147225835639005" alt="Discord Status"/>
       </a>
-      <br/>
-      <a target="_blank">
-        <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199077228971&show_in_game_bg=true&show_recent_game_bg=false"/>
-      </a>
     </td>
     <td align="center" width="35%">
       <a target="_blank">
