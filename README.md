@@ -1,8 +1,8 @@
 <div align="center">
  
-  <a > 
+  <!-- <a > 
     <img src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width:auto; height:auto" />
-  </a>
+  </a> -->
   <h1 align="center"> 👋 Olá! My name is Thiago Gonçalves. </h1>
   
 </div>
