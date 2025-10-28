@@ -55,7 +55,7 @@
 
 <br />
 
-<h2> 🌐 How to reach me </h2>
+<!-- <h2> 🌐 How to reach me </h2>
 <br>
 <div align="left">
  <a href="mailto:hellothigo.dev@gmail.com"> 
@@ -66,7 +66,7 @@
 </a>
 <a href="https://discord.com/channels/@me/1388980298678665318">
   <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" />
-</a>
+</a> -->
 
 </div>
 <br />
