@@ -30,7 +30,7 @@
     <td style="padding-right: 20px;">
     <p>  💻 - I’m currently working on back-end and front-end
     <p>  🔭 - I’m currently studying the 2nd year of the informatics course at IFMA - Imperatriz Campus </p>
-    <p>  ⚡ - Love mechs is life! </p>
+    <p>  ⚡ - My main hobby is love mechs! </p>
     <p>  🌱 - I’m currently learning <strong>Typescript, React, MongoDb, PostegresSQL, NestJS, ExpressJS and GOOD WAYS OF CODING! </strong> </p>
     <p> 🚀  - Ongoing Development: Continuously improving my programming and development skills. </p>
     </td>
