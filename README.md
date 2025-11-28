@@ -85,12 +85,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a target="_blank">
-        <img width="100%" src="https://lanyard.cnrad.dev/api/1383147225835639005" alt="Discord Status"/>
-      </a>
-    </td>
-    <td align="center" width="35%">
+    <td align="center">
       <a target="_blank">
         <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=am1du3lud5ixdvjzb3e40d90u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true" alt="Spotify"/>
       </a>
