@@ -81,7 +81,7 @@
 
 <br />
 
-<h2> 💻 Profile Stats </h2>
+<!-- <h2> 💻 Profile Stats </h2>
 
 <table align="center">
   <tr>
@@ -93,4 +93,4 @@
   </tr>
 </table>
 
-<br />
+<br /> -->
