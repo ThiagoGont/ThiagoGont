@@ -30,7 +30,7 @@
     <td style="padding-right: 20px;">
     <p>  💻 - I’m currently working as Full-stack with TS
     <p>  🔭 - I’m currently studying the 3nd year of the informatics course at IFMA - Imperatriz Campus </p>
-    <!-- <p>  ⚡ - I like build gunpla btw </p> -->
+     <p>  ⚡ - I like build model kits btw </p> 
     <p>  🌱 - I’m currently learning <strong>Typescript, React, MongoDb, PostegresSQL, NestJS, ExpressJS and GOOD WAYS OF CODING! </strong> </p>
     <p> 🚀  - Ongoing Development: Continuously improving my programming and development skills. </p>
     </td>
