@@ -29,7 +29,7 @@
   <tr>
     <td style="padding-right: 20px;">
     <p>  💻 - I’m currently working as Full-stack with TS
-    <p>  🔭 - I’m currently studying the 3nd year of the informatics course at <strong>IFMA - Imperatriz Campus </p>
+    <p>  🔭 - I’m currently studying the 3nd year of the informatics course at <strong>IFMA - Imperatriz Campus </strong> </p>
      <p>  ⚡ - I like build model kits btw </p> 
     <p>  🌱 - I’m currently learning <strong>NestJS, React and SQL </strong> </p>
     <p> 🚀  - Ongoing Development: Continuously improving my programming and development skills. </p>
