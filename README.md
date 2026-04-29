@@ -1,9 +1,9 @@
 <div align="center">
  
-  <!-- <a > 
+<!-- <span> 
     <img src="https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width:auto; height:auto" />
-  </a> -->
-  <h1 align="center"> 👋 Olá! My name is Thiago Gonçalves. </h1>
+  </span> -->
+  <h1 align="center"> 👋 Olá! My name is Thiago. </h1>
   
 </div>
 
@@ -29,9 +29,9 @@
   <tr>
     <td style="padding-right: 20px;">
     <p>  💻 - I’m currently working as Full-stack with TS
-    <p>  🔭 - I’m currently studying the 3nd year of the informatics course at IFMA - Imperatriz Campus </p>
+    <p>  🔭 - I’m currently studying the 3nd year of the informatics course at <strong>IFMA - Imperatriz Campus </p>
      <p>  ⚡ - I like build model kits btw </p> 
-    <p>  🌱 - I’m currently learning <strong>Typescript, React, MongoDb, PostegresSQL, NestJS, ExpressJS and GOOD WAYS OF CODING! </strong> </p>
+    <p>  🌱 - I’m currently learning <strong>NestJS, React and SQL </strong> </p>
     <p> 🚀  - Ongoing Development: Continuously improving my programming and development skills. </p>
     </td>
     <td>
@@ -56,18 +56,15 @@
 
 <br />
 
-<!-- <h2> 🌐 How to reach me </h2>
+<h2> 🌐 How to reach me </h2>
 <br>
 <div align="left">
  <a href="mailto:hellothigo.dev@gmail.com"> 
-   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" />
+   <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg"/>
  </a>
 <a href="https://www.linkedin.com/in/thiago-gon%C3%A7alves-939a7a36b/">
-  <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" />
+  <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"/>
 </a>
-<a href="https://discord.com/channels/@me/1388980298678665318">
-  <img width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" />
-</a> -->
 
 </div>
 <br />
